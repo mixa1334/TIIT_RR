@@ -1,0 +1,12 @@
+﻿  TIIT RR.cpp
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(31,10): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(44,22): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(86,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(100,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(101,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\furno\source\repos\TIIT\TIIT RR\TIIT RR.cpp(114,20): warning C4018: <: несоответствие типов со знаком и без знака
+  TIIT RR.vcxproj -> C:\Users\furno\source\repos\TIIT\TIIT RR\Debug\TIIT RR.exe
