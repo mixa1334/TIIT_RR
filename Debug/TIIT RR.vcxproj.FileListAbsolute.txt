@@ -1,4 +1,0 @@
-C:\Users\furno\source\repos\TIIT RR\Debug\TIIT RR.exe
-C:\Users\furno\source\repos\TIIT RR\Debug\TIIT RR.pdb
-C:\Users\furno\source\repos\TIIT\TIIT RR\Debug\TIIT RR.exe
-C:\Users\furno\source\repos\TIIT\TIIT RR\Debug\TIIT RR.pdb
